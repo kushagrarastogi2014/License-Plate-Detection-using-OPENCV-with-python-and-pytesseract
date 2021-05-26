@@ -1,0 +1,3 @@
+PS C:\Users\Kushagra Rastogi\Documents\License plate detection> Number is:DL 7CQ 1939
+
+PS C:\Users\Kushagra Rastogi\Documents\License plate detection> Number is:DL 13C 1310
