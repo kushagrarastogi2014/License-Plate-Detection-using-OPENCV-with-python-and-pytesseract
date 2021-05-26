@@ -1,0 +1,1 @@
+# License-Plate-Detection-using-OPENCV-with-python-and-pytesseract
